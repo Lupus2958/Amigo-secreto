@@ -9,3 +9,4 @@
 - `Funcionalidad 1`: se creo un array para almacenar los amigos en el archivo app.js.
 - `Funcionalidad 2`: se creo una funcionalidad para agregar amigos en el archivo app.js.
 - `Funcionalidad 3`: se creo una nueva funcionalidad para actualizar la lista de amigos en el archivo app.js.
+- `Funcionalidad 4`: se creo una ultima funcionalidad para sortear los amigos en el archivo app.js.
